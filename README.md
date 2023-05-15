@@ -5,12 +5,6 @@
 ## Integrantes 
 - Matias Skenen
 
-
-## Proyecto: SUBTE-BOTON
-[Proyecto 1](https://user-images.githubusercontent.com/93952537/236280630-a084f336-75c3-4943-be82-ab6381e8bf13.PNG)
-
-
-
 ## Descripción
 En este parrafo deberan describir que funcion cumple su proyecto. Que solucion esta ofreciendo.
 
